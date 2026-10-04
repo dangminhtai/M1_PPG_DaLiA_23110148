@@ -1,0 +1,16 @@
+tag,path,score,epoch,fold,variant,mode,lam
+fold1_D,/content/drive/MyDrive/M1_results/DEF/fold1_D.pt,0.8186258269137398,9,1,D,M1,0.1
+fold2_D,/content/drive/MyDrive/M1_results/DEF/fold2_D.pt,0.5911924961401769,24,2,D,M1,1.0
+fold3_D,/content/drive/MyDrive/M1_results/DEF/fold3_D.pt,0.472188476962071,23,3,D,M1,0.1
+fold4_D,/content/drive/MyDrive/M1_results/DEF/fold4_D.pt,0.3521896015175008,33,4,D,M1,1.0
+fold5_D,/content/drive/MyDrive/M1_results/DEF/fold5_D.pt,0.44102033674701313,26,5,D,M1,1.0
+fold1_E,/content/drive/MyDrive/M1_results/DEF/fold1_E.pt,0.9884472974831736,17,1,E,M1,0.1
+fold2_E,/content/drive/MyDrive/M1_results/DEF/fold2_E.pt,0.8894659897252402,13,2,E,M1,1.0
+fold3_E,/content/drive/MyDrive/M1_results/DEF/fold3_E.pt,0.7694380033053736,15,3,E,M1,0.1
+fold4_E,/content/drive/MyDrive/M1_results/DEF/fold4_E.pt,0.7313881214488696,16,4,E,M1,1.0
+fold5_E,/content/drive/MyDrive/M1_results/DEF/fold5_E.pt,0.7437018003010116,13,5,E,M1,1.0
+fold1_F,/content/drive/MyDrive/M1_results/DEF/fold1_F.pt,0.2793796313153144,51,1,F,B2,1.0
+fold2_F,/content/drive/MyDrive/M1_results/DEF/fold2_F.pt,0.235122600800319,31,2,F,B2,1.0
+fold3_F,/content/drive/MyDrive/M1_results/DEF/fold3_F.pt,0.24712818145314142,18,3,F,B2,1.0
+fold4_F,/content/drive/MyDrive/M1_results/DEF/fold4_F.pt,0.19198467872490155,33,4,F,B2,1.0
+fold5_F,/content/drive/MyDrive/M1_results/DEF/fold5_F.pt,0.21068584438764348,13,5,F,B2,1.0

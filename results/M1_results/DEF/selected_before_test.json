@@ -1,0 +1,152 @@
+[
+  {
+    "tag": "fold1_D",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold1_D.pt",
+    "score": 0.8186258269,
+    "epoch": 9,
+    "fold": 1,
+    "variant": "D",
+    "mode": "M1",
+    "lam": 0.1
+  },
+  {
+    "tag": "fold2_D",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold2_D.pt",
+    "score": 0.5911924961,
+    "epoch": 24,
+    "fold": 2,
+    "variant": "D",
+    "mode": "M1",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold3_D",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold3_D.pt",
+    "score": 0.472188477,
+    "epoch": 23,
+    "fold": 3,
+    "variant": "D",
+    "mode": "M1",
+    "lam": 0.1
+  },
+  {
+    "tag": "fold4_D",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold4_D.pt",
+    "score": 0.3521896015,
+    "epoch": 33,
+    "fold": 4,
+    "variant": "D",
+    "mode": "M1",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold5_D",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold5_D.pt",
+    "score": 0.4410203367,
+    "epoch": 26,
+    "fold": 5,
+    "variant": "D",
+    "mode": "M1",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold1_E",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold1_E.pt",
+    "score": 0.9884472975,
+    "epoch": 17,
+    "fold": 1,
+    "variant": "E",
+    "mode": "M1",
+    "lam": 0.1
+  },
+  {
+    "tag": "fold2_E",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold2_E.pt",
+    "score": 0.8894659897,
+    "epoch": 13,
+    "fold": 2,
+    "variant": "E",
+    "mode": "M1",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold3_E",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold3_E.pt",
+    "score": 0.7694380033,
+    "epoch": 15,
+    "fold": 3,
+    "variant": "E",
+    "mode": "M1",
+    "lam": 0.1
+  },
+  {
+    "tag": "fold4_E",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold4_E.pt",
+    "score": 0.7313881214,
+    "epoch": 16,
+    "fold": 4,
+    "variant": "E",
+    "mode": "M1",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold5_E",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold5_E.pt",
+    "score": 0.7437018003,
+    "epoch": 13,
+    "fold": 5,
+    "variant": "E",
+    "mode": "M1",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold1_F",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold1_F.pt",
+    "score": 0.2793796313,
+    "epoch": 51,
+    "fold": 1,
+    "variant": "F",
+    "mode": "B2",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold2_F",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold2_F.pt",
+    "score": 0.2351226008,
+    "epoch": 31,
+    "fold": 2,
+    "variant": "F",
+    "mode": "B2",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold3_F",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold3_F.pt",
+    "score": 0.2471281815,
+    "epoch": 18,
+    "fold": 3,
+    "variant": "F",
+    "mode": "B2",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold4_F",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold4_F.pt",
+    "score": 0.1919846787,
+    "epoch": 33,
+    "fold": 4,
+    "variant": "F",
+    "mode": "B2",
+    "lam": 1.0
+  },
+  {
+    "tag": "fold5_F",
+    "path": "/content/drive/MyDrive/M1_results/DEF/fold5_F.pt",
+    "score": 0.2106858444,
+    "epoch": 13,
+    "fold": 5,
+    "variant": "F",
+    "mode": "B2",
+    "lam": 1.0
+  }
+]

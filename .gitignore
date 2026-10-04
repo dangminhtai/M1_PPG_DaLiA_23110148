@@ -1,0 +1,10 @@
+# Dữ liệu và checkpoint không đưa lên GitHub
+PPG_FieldStudy/
+ppg_dalia_download/
+cache_64hz/
+*.npz
+*.pt
+*.pt.part
+*.part
+.ipynb_checkpoints/
+__pycache__/

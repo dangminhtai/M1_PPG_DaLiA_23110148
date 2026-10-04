@@ -1,0 +1,144 @@
+{
+  "version": "M1_DEF_2026_10_04_v1",
+  "preprocess_hash": "222db9358a24",
+  "baseline_sha256": {
+    "preprocess_config.json": "b5bc9bb952b39b426caf2dbb015deb30f32ee34e04576fa0eb2ed553c76b50a5",
+    "train_only_statistics.json": "f6edb03a8bc7698967b6047c5c6b3e06709c7cc3d8e8e9321e186b99c9279083",
+    "selected_before_test.json": "6fa7bdb4b11350321e9a63b48f3f8739105093c4c19618a0797c0f650ecb531a",
+    "validation_runs.csv": "3a91a517ba666f3f4f10e4374d742a0185bccf84483ec0dae8cb2ce365291848",
+    "test_predictions.csv": "e92dff18ff2ba3a7cb5f63a464d9e760b4766dce96bbc064a681b8b19b4acaa3",
+    "window_audit.csv": "058845eef9914f12ac7773e577c64608a86901e99188c0fdff59f27f81de469a"
+  },
+  "lambdas": {
+    "1": 0.1,
+    "2": 1.0,
+    "3": 0.1,
+    "4": 1.0,
+    "5": 1.0
+  },
+  "splits": [
+    [
+      [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      [
+        4,
+        5,
+        6
+      ],
+      [
+        1,
+        2,
+        3
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        3,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      [
+        7,
+        8,
+        9
+      ],
+      [
+        4,
+        5,
+        6
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        13,
+        14,
+        15
+      ],
+      [
+        10,
+        11,
+        12
+      ],
+      [
+        7,
+        8,
+        9
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      [
+        13,
+        14,
+        15
+      ],
+      [
+        10,
+        11,
+        12
+      ]
+    ],
+    [
+      [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        13,
+        14,
+        15
+      ]
+    ]
+  ],
+  "seed": 42,
+  "batch": 64,
+  "max_epochs": 100,
+  "patience": 10,
+  "smoke": false,
+  "optimizer": "AdamW",
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

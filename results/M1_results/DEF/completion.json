@@ -1,0 +1,8 @@
+{
+  "complete": true,
+  "smoke": false,
+  "models": 15,
+  "windows_per_model": 46763,
+  "run_hash": "b869e8ea92df5dba35a7e555dc7b7afce539443b5535add66ba08bb1b19f64f5",
+  "finished_at": "2026-10-04T07:29:24.984719+00:00"
+}

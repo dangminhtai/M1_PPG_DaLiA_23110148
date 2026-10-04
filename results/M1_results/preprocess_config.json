@@ -1,0 +1,40 @@
+{
+  "dataset_sha256": {
+    "S1": "e4a35dfe711368d447a2a383e5dd98191594928ccb2ca8deeeda06cd6e628c14",
+    "S2": "5655a60bbc7c5e560f64bc238218284613c9528ae9e3c5517946d476fa8e4399",
+    "S3": "0fe923d3a7e7fd60e5245e655a9c1d0a1c2c106ea3128e2dfe79ba0f2266f799",
+    "S4": "539c0f112507a5b8b21d90f648f932ad4ba8acaeb76fb3b06d1d06b033cafda2",
+    "S5": "e9593717aa524e4c0ab37ba5603f7e6190fff1385251d5a9615342f38f55afb1",
+    "S6": "c9fece7217d0ffd648e55ec9d139237bfb37b9958efb6cff072d438e46ba34e4",
+    "S7": "ea669d42137d1a90127bb7be3c5c5613f636a00814cd04c604c42586868b0390",
+    "S8": "4072e197ff7ddbd184d721b6643215dd7101af93e1a9c00cbcca7827c94b4969",
+    "S9": "68853d6ae4cc5d22dcf0b3a693a367305a6c28287cf5248a99c6f0f49c65cf56",
+    "S10": "bed48c8e38bdaed8fbd5e3f662b49d240119a98dfe4619e4902931a0335f4e4f",
+    "S11": "5c5c4c0308478df56e2f464810fa949abbf25450c9c934edc5cb00beb7cecff5",
+    "S12": "a7a5c802f0005a633c86956fe92dfe60b350f80b27bd2509880e50582dedd406",
+    "S13": "7ca31b91bf1825083707a4be1ce65612d864c7effa077d6780154419df5d9813",
+    "S14": "c192b9090ac3c0107000d8424c038ccd11292cded1f6c46c97e2cae85c725392",
+    "S15": "1f080cbce67be7a0638787e745c3a73a50bab7db4be0da3b6c84288d42aa3497"
+  },
+  "hr_t0": 0.0,
+  "mapping": {
+    "1": 0,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7
+  },
+  "fs_bvp": 64,
+  "fs_acc": 32,
+  "fs_activity": 4,
+  "window": 8,
+  "stride": 2,
+  "ppg_band": [
+    0.5,
+    8
+  ],
+  "butter_N": 4
+}
